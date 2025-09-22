@@ -68,7 +68,7 @@
       yosys
 * 2.Read the liberty library
 
-      read_liberty -lib /address/to/your/sky130/file/sky130_fd_sc_hd__tt_025C_1v80.lib
+      read_liberty -lib ../lib/sky130/file/sky130_fd_sc_hd__tt_025C_1v80.lib
   
 * 3.Read design
 
