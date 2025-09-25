@@ -17,5 +17,8 @@
    - Flop optimizations during synthesis  
 
 ---
+## Lab work
+**Introduction to timing .libs
+
 
 
