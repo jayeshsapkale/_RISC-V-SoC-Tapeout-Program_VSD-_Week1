@@ -1,4 +1,4 @@
-# SKY130 RTL Design & Synthesis Workshop – Day 2  
+# Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles 
 
 ## 📌 Topics Covered
 1. **Timing Libraries (`.lib`)**
@@ -18,4 +18,4 @@
 
 ---
 
-## 📂 Repository Structure
+
