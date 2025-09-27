@@ -1,7 +1,7 @@
 # Day 3 - Combinational and Sequential Optimizations
 
 ## 📌 Overview
-This repository contains notes, labs, and resources for **Day 3** of the SKY130RTL course.  
+This repository contains notes, labs, and resources for **Day 3** .
 Focus areas include **Combinational Logic Optimizations** and **Sequential Logic Optimizations**.
 
 ---
