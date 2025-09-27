@@ -9,8 +9,8 @@ This repository contains my learnings, notes, and lab work from **VSD Workshop (
 * [Day 1 – Introduction to Verilog RTL Design & Synthesis](week1/Day_1.md)
 * [Day 2 – Timing Libraries, Hierarchical vs Flat Synthesis & Flop Coding Styles](week1/Day_2.md)
 * [Day 3 – Combinational & Sequential Optimizations](week1/Day_3.md)
-* [Day 4 – GLS, Blocking vs Non-Blocking & Simulation-Synthesis Mismatch](./week1/day4.md)
-* [Day 5 – Optimizations in Synthesis](./week1/day5.md)
+* [Day 4 – GLS, Blocking vs Non-Blocking & Simulation-Synthesis Mismatch](./week1/Day_4.md)
+* [Day 5 – Optimizations in Synthesis](week1/Day_5.md)
 
 ---
 
